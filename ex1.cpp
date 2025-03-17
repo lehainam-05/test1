@@ -60,6 +60,7 @@ class SVTMDT : public SV {
 };
 
 int main() {
+	int ;
 //    SV x;
 //    // 1
 //    x.input();
